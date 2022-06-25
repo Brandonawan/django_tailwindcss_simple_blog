@@ -1,0 +1,1 @@
+# django_tailwindcss_simple_blog
